@@ -1,0 +1,39 @@
+body{
+    background-color: #cdf22a;
+    
+    background-image: url(https://images.unsplash.com/photo-1594652634010-275456c808d0?auto=format&fit=crop&q=80&w=1770&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+#container{
+    
+    
+    height: 275px;
+    width:750px;
+    margin-left: 5%;
+    margin-top: 10%;
+    margin-bottom: 20%;
+    margin-right: 25%;
+   
+
+    text-align: center;
+}
+p{
+    color: rgb(21, 20, 20);
+    font-size: 50px;
+    font-weight: 2000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#input{
+    width: 2000px;
+    color: #cdf22a;
+    margin:25px auto;
+    height: 260px;
+
+}
+#btn{
+    margin: 25px auto auto5px;
+    border-color: black;
+    box-sizing: 50px;
+   
+    
+}
